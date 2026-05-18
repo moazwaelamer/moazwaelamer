@@ -160,7 +160,7 @@ Transforming raw data into actionable insights.
 
 | 🏫 Institution | 📚 Degree | 📅 Duration |
 |:---|:---|:---|
-| El Shorouk Academy | Bachelor's — Computer Science | Oct 2023 – Aug 2025 |
+| El Shorouk Academy | Bachelor's — Computer Science | Oct 2023 – JUL 2027 |
 
 ---
 
