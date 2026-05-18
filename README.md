@@ -10,7 +10,7 @@
 
 ### 👋 Hey there! I'm Moaz Wael
 
-🚀 **Full Stack Developer** | 🤝 **Co-Founder @ [AZTEAC](https://github.com/AZTEAC)** | 🧠 **AI & Automation Enthusiast**
+🚀 **Full Stack Developer** | 🤝 **Co-Founder @ [AZTEAC](https://github.com/az-teac)** | 🧠 **AI & Automation Enthusiast**
 
 📍 Ismailia, Egypt &nbsp;|&nbsp; 🎓 Computer Science — El Shorouk Academy &nbsp;|&nbsp; 💼 Open to Freelance & Collaborations
 
