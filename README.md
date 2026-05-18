@@ -91,35 +91,11 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=moazwael&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
 
 [![Moaz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moazwael&theme=tokyo-night&hide_border=true&area=true&line=00d9ff&point=ffffff&color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moazwael/moazwael/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moazwael/moazwael/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/moazwael/moazwael/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 
 </div>
 
@@ -133,13 +109,5 @@
 |:---|:---|
 | ☁️ AWS Academy Graduate — Generative AI Foundations | Amazon Web Services |
 | 🧠 Generative AI Engineer Program | Information Technology Institute (ITI) |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </div>
