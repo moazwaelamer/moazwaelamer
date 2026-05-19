@@ -26,9 +26,8 @@
 > Passionate Full Stack Developer and Co-Founder at **AZTEAC**, focused on building scalable, high-performance web applications. I enjoy turning ideas into real-world solutions and continuously improving my skills in both frontend and backend development.
 
 - 🏗️ Co-Founder at **AZTEAC** — building innovative tech solutions & automation systems
-- 🧠 **AWS Certified** — Generative AI Foundations
 - 🌍 Based in **Ismailia, Egypt 🇪🇬**
-- 🤝 Looking to collaborate on: **Frontend projects** & **AI applications**
+- 🤝 Looking to collaborate on: **Full Stack projects** & **AI applications**
 - 💬 Ask me about: **HTML, CSS, JavaScript, React, Python, Machine Learning**
 - ⚡ Fun fact: I enjoy mixing creativity with logic — design meets code!
 
